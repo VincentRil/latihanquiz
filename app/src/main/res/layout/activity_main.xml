@@ -42,16 +42,7 @@
         android:background="@drawable/nama_aplikasi"
         app:layout_constraintEnd_toEndOf="@id/beranda_atas"
         app:layout_constraintTop_toBottomOf="@id/nama_sekolah" />
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="rosalia"
-        android:textSize="50sp"
-        android:textColor="@color/white"
-        android:gravity="left"
-        app:layout_constraintStart_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        />
+
 
     <FrameLayout
         android:id="@+id/frame_container"

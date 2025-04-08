@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/beranda_logo"
+        android:title="Home"
+        android:icon="@drawable/beranda_selector"/>
+
+    <item
+        android:id="@+id/daftar_siswa"
+        android:title="Daftar Siswa"
+        android:icon="@drawable/daftar_siswa_selector"/>
+
+    <item
+        android:id="@+id/nilai_siswa"
+        android:title="Nilai Siswa"
+        android:icon="@drawable/nilai_siswa_selector"/>
+
+</menu>
